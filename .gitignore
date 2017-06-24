@@ -5,3 +5,4 @@
 Thumbs.db
 
 /upload/*
+!/upload/index.html
